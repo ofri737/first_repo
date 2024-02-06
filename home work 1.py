@@ -1,4 +1,4 @@
-# Qs - 1
+####### Qs - 1
 first = 7
 second = 44.3
 print(first + second) # result = 7+44.3=51.3
