@@ -1,3 +1,4 @@
+properties([pipelineTriggers([pollSCM(ignorePostCommitHooks: true, scmpoll_spec: '* * * * *')])])
 pipeline {
     agent any
 
